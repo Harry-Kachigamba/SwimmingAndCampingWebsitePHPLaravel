@@ -4,5 +4,5 @@
 
 @section('content')
 <h1>Welcome to Contact Page!</h1>
-<p>This is the Home of page of the Laravel website</p>
+<p>This is the Contact of page of the Laravel website</p>
 @endsection

@@ -3,7 +3,9 @@
 @section('title', 'Add Place')
 
 @section('content')
-    <h1 class="text-2xl font-bold text-gray-800">Add a New Place</h1>
+    <h1>Welcome to Places Page!</h1>
+    <br>
+    <h3 class="text-2xl font-bold text-gray-800">Add a New Place</h3>
     
     @if (session('success'))
         <div class="bg-green-200 text-green-800 p-4 mb-4">
